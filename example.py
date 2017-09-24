@@ -14,7 +14,7 @@ from unfollow_protocol import unfollow_protocol
 
 bot = InstaBot(
     login="realflorenzerstling",
-    password="SAFREIIY",
+    password="",
     like_per_day=1000,
     comments_per_day=30,
     tag_list=['motivation','work','happiness','passion','success','money','entrepreneur','quoteoftheday','do','idothis','programmer','easylife','youngentrepreneur','founders','hustlers','globalshift','millenials','develop','developing','innovator','programs','programmers','doitall','handworkpaysoff','doitmyself','dotiwithpassin','codinglife','izilife','startupquotes','startupadvice'],
